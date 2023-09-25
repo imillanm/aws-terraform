@@ -37,3 +37,9 @@ variable "instance_name" {
   type    = string
   default = "ec2_example"
 }
+
+variable "bucket_name" {
+  description = "name bucket"
+  type        = string
+  default     = "terraformstate8941c707"
+}
