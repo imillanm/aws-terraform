@@ -1,0 +1,5 @@
+access_key    = "AKIAZIUSBTEWAH763UQH"
+secret_key    = "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"
+region        = "us-west-2"
+ami           = "ami-03f65b8614a860c29"
+instance_type = "t2.micro"
