@@ -1,5 +1,5 @@
-access_key        = "AKIAZIUSBTEWAH763UQH"
-secret_key        = "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"
+access_key        = ""
+secret_key        = ""
 region            = "us-west-2"
 availability_zone = "us-west-2a"
 instance_type     = "t2.micro"
